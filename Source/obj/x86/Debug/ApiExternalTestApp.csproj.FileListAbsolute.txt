@@ -1,0 +1,12 @@
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.ConnectionForm_.resources
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.MainWindow.resources
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.Properties.Resources.resources
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.GenerateResource.cache
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.CoreCompileInputs.cache
+C:\Projects\Sources\ModesCentre\Integration\Executable\ApiExternalTestApp.exe.config
+C:\Projects\Sources\ModesCentre\Integration\Executable\ApiExternalTestApp.exe
+C:\Projects\Sources\ModesCentre\Integration\Executable\ApiExternalTestApp.pdb
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.CopyComplete
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.exe
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.pdb
+C:\Projects\Sources\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.AssemblyReference.cache
